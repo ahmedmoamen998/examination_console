@@ -1,0 +1,28 @@
+C:\Users\Aio\source\repos\Examination\Examination\bin\Debug\net8.0\Examination.exe
+C:\Users\Aio\source\repos\Examination\Examination\bin\Debug\net8.0\Examination.deps.json
+C:\Users\Aio\source\repos\Examination\Examination\bin\Debug\net8.0\Examination.runtimeconfig.json
+C:\Users\Aio\source\repos\Examination\Examination\bin\Debug\net8.0\Examination.dll
+C:\Users\Aio\source\repos\Examination\Examination\bin\Debug\net8.0\Examination.pdb
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfoInputs.cache
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfo.cs
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.dll
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\refint\Examination.dll
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.pdb
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\Examination.genruntimeconfig.cache
+C:\Users\Aio\source\repos\Examination\Examination\obj\Debug\net8.0\ref\Examination.dll
+C:\Users\Aio\Desktop\examination system\Examination\Examination\bin\Debug\net8.0\Examination.exe
+C:\Users\Aio\Desktop\examination system\Examination\Examination\bin\Debug\net8.0\Examination.deps.json
+C:\Users\Aio\Desktop\examination system\Examination\Examination\bin\Debug\net8.0\Examination.runtimeconfig.json
+C:\Users\Aio\Desktop\examination system\Examination\Examination\bin\Debug\net8.0\Examination.dll
+C:\Users\Aio\Desktop\examination system\Examination\Examination\bin\Debug\net8.0\Examination.pdb
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfoInputs.cache
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.AssemblyInfo.cs
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.dll
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\refint\Examination.dll
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.pdb
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\Examination.genruntimeconfig.cache
+C:\Users\Aio\Desktop\examination system\Examination\Examination\obj\Debug\net8.0\ref\Examination.dll

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\questionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\questionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\qchooseone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\qchooseone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\practice exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\practice exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\true_or_false.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\true_or_false.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\final exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\final exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\answerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\answerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|c:\\users\\aio\\desktop\\examination system\\examination\\examination\\subjectobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5501F2-DB8D-4F2F-A7F7-39177CA4A6EC}|Examination\\Examination.csproj|solutionrelative:examination\\subjectobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\QuestionHelper.cs",
+              "RelativeDocumentMoniker": "Examination\\QuestionHelper.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\QuestionHelper.cs",
+              "RelativeToolTip": "Examination\\QuestionHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:53:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Program.cs",
+              "RelativeDocumentMoniker": "Examination\\Program.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Program.cs",
+              "RelativeToolTip": "Examination\\Program.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAANMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:28:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Question.cs",
+              "RelativeDocumentMoniker": "Examination\\Question.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Question.cs",
+              "RelativeToolTip": "Examination\\Question.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:55:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QChooseOne.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\QChooseOne.cs",
+              "RelativeDocumentMoniker": "Examination\\QChooseOne.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\QChooseOne.cs",
+              "RelativeToolTip": "Examination\\QChooseOne.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:50:33.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "True_or_False.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\True_or_False.cs",
+              "RelativeDocumentMoniker": "Examination\\True_or_False.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\True_or_False.cs",
+              "RelativeToolTip": "Examination\\True_or_False.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:50:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Answer.cs",
+              "RelativeDocumentMoniker": "Examination\\Answer.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Answer.cs",
+              "RelativeToolTip": "Examination\\Answer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:41:06.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Practice Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Practice Exam.cs",
+              "RelativeDocumentMoniker": "Examination\\Practice Exam.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Practice Exam.cs",
+              "RelativeToolTip": "Examination\\Practice Exam.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:48:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Final Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Final Exam.cs",
+              "RelativeDocumentMoniker": "Examination\\Final Exam.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Final Exam.cs",
+              "RelativeToolTip": "Examination\\Final Exam.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:48:59.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Exam.cs",
+              "RelativeDocumentMoniker": "Examination\\Exam.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Exam.cs",
+              "RelativeToolTip": "Examination\\Exam.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:34:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Student.cs",
+              "RelativeDocumentMoniker": "Examination\\Student.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\Student.cs",
+              "RelativeToolTip": "Examination\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:17:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnswerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\AnswerHelper.cs",
+              "RelativeDocumentMoniker": "Examination\\AnswerHelper.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\AnswerHelper.cs",
+              "RelativeToolTip": "Examination\\AnswerHelper.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:56:05.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubjectObj.cs",
+              "DocumentMoniker": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\SubjectObj.cs",
+              "RelativeDocumentMoniker": "Examination\\SubjectObj.cs",
+              "ToolTip": "C:\\Users\\Aio\\Desktop\\examination system\\Examination\\Examination\\SubjectObj.cs",
+              "RelativeToolTip": "Examination\\SubjectObj.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:47:53.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
